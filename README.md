@@ -1,6 +1,10 @@
 # Random User Card Generator
 
+### Screenshot 1
 ![Screenshot](./screenshot.png)
+
+### Screenshot 2
+![Screenshot](./screenshot2.png)
 
 ## About This Project
 
